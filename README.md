@@ -4,6 +4,10 @@
 
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl26mf1se001109mkkt3wehhc/stats?cursusId=21&coalitionId=78" alt="olakhdar's 42 stats" /></a>
+
+
+[![oussamalakhdar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamalakhdar)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **oussamalakhdar/oussamalakhdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
